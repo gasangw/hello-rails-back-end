@@ -1,24 +1,57 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Project Name
 
-Things you may want to cover:
+- Hello-rails-back-end
 
-* Ruby version
+## FRONT-END LINK
 
-* System dependencies
+[Hello-React-Front-end Link](https://github.com/gasangw/hello-react-front-end)
 
-* Configuration
+## Built With
 
-* Database creation
+- Ruby
+- Ruby on Rails
+- Git & Github
 
-* Database initialization
+## Getting Started
 
-* How to run the test suite
+- Clone my repo from `git@github.com:gasangw/hello-rails-back-end.git`
+- Run `bundle install`
+- Run `rails s`
 
-* Services (job queues, cache servers, search engines, etc.)
+To get a local copy up and running follow these simple example steps.
 
-* Deployment instructions
+### Prerequisites
 
-* ...
+- Install `Ruby`
+- Install `Rails`
+- Run `rails new hello-rails-back-end --database=postgresql`
+
+
+## Authors
+
+👤 **Author1**
+
+- GitHub: [@githubhandle](https://github.com/gasangw)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/gasangwa-thomas-84197222a/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/gasangw/hello-rails-back-end/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
