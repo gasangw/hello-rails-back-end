@@ -1,5 +1,5 @@
 class MessagesController < ApplicationController
-  def index 
+  def index
     @message = Message.all.sample
     render json: @message
   end
